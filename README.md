@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently working on learning how to use GitHub.
+### I'm currently learning fullstack webDevelopment.
 
 <!--
 **martinbago22/martinbago22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
