@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm currently learning fullstack webDevelopment.
+### I'm currently learning fullstack webDevelopment at CodeCool.
 
 <!--
 **martinbago22/martinbago22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
