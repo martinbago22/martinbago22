@@ -1,6 +1,6 @@
 ## Hi there!
 
-<a href="https://daily.dev/mrtbg22"><img src="https://api.daily.dev/devcards/v2/3ve0GIIVd7ttPR1qS7wsF.png?type=default&r=pa8" width="356" alt="mbg22's Dev Card"/></a>
+<a href="https://daily.dev/mrtbg22"><img src="./devcard.png" width="356" alt="martinbago22's Dev Card"/></a>
 
 <!--
 **martinbago22/martinbago22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
